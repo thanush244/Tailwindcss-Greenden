@@ -22,7 +22,7 @@ This project uses only HTML and Tailwind CSS, focusing on a fast and optimized f
 
 ## HTML
 
-We use tags like  <header>, <nav>, <section>, and <footer> for a well-structured, accessible layout.
+<header>, <nav>, <section>, and <footer> for a well-structured, accessible layout.
 Responsive Layout: The HTML structure is organized to be fully responsive, supporting different screen sizes from small mobile devices to large desktop monitors.
 Modular Structure: Each section of the page is organized in a way that is easy to expand or modify as needed.
 
