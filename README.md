@@ -1,6 +1,6 @@
 ## Greenden 🌱
 
-Greenden is a responsive website built using HTML and Tailwind CSS. It showcases a wide range of artificial and natural plants, providing an online platform for users to browse various plant varieties, learn about their features, and read customer reviews.
+Greenden is a responsive website built using HTML, Tailwind CSS, and JavaScript. It showcases a wide range of artificial and natural plants, providing an online platform for users to browse various plant varieties, learn about their features, and read customer reviews.
 
 
 ## Features
@@ -15,6 +15,7 @@ About Us Section: Provides information about Greenden's mission and dedication t
 
 HTML5: For the structure and content of the website, ensuring semantic and accessible markup.
 Tailwind CSS: For a utility-first approach to styling, making the design process fast and efficient.
+JavaScript: Used to add interactive elements and improve the user experience with features like filtering and smooth transitions.
 
 ##About the HTML and CSS Structure
 
@@ -37,3 +38,8 @@ Lightweight and Fast: Without JavaScript libraries or complex frameworks, the we
 Ease of Maintenance: Tailwind's utility-first approach allows for rapid changes and updates to the design.
 Scalable Design: The HTML and CSS structure provides a solid foundation, allowing for easy expansion of the site as new content or sections are added.
 Accessibility: The use of semantic HTML ensures that the website is accessible to users with different needs, supporting screen readers and other assistive technologies.
+
+## Java Script
+
+Dynamic Functionality: JavaScript is used to add interactive features like filtering plants by category, displaying plant details on hover, or smooth scrolling between sections.
+Enhanced User Experience: JavaScript allows for additional customization and real-time interactivity without affecting the website’s loading speed significantly.
